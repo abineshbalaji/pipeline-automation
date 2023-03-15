@@ -1,1 +1,1 @@
-# pipeline-automation
+# jenkins-docker-example
